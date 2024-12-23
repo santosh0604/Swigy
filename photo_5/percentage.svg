@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="white" stroke="" stroke-width="5"/>
+
+  <!-- Text for Percentage -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="green" font-family="Arial, sans-serif">
+    50%
+  </text>
+
+  <!-- Subtext for Offer -->
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="black" font-family="Arial, sans-serif">
+    OFF
+  </text>
+</svg>
